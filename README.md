@@ -1,6 +1,5 @@
 # Author: Ping-Jung Liu
 # Date: September 17th 2017
-# COSC 76 Assignment 1: Missionaries and Cannibals
 # Acknowledgement: Professor Devin Balkom for providing the general structure 
 
 ***README***
